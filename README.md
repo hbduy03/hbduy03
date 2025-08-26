@@ -1,7 +1,8 @@
 ## Hello everyone!
-## I'm currently a third-year software engineering student at Nguyen Tat Thanh University.
-## My goal to become an expert in Artificial Intelligence.
-
+- 👨‍💻 About me:
+ - 🎓 Currently, I'm a third-year Software Engineering student at Nguyen Tat Thanh University.
+ - 🚀 My goal is to become an expert in Artificial Intelligence.
+ - 📚 I'm actively improving my skills through academic projects, online courses, and hands-on coding.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duyhuynhbao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hbduy03@gmail.com) 
 
